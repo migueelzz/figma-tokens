@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Sat, 25 May 2024 21:51:04 GMT
+ * Generated on Sat, 25 May 2024 22:25:25 GMT
  */
 
 module.exports = {
+  "Sizes2": 8,
+  "Sizes4": 16,
+  "Sizes8": 32,
   "ColorWhite": "#ffffff",
   "ColorGray200": "#c1c1c4",
   "ColorGray500": "#50505c",
